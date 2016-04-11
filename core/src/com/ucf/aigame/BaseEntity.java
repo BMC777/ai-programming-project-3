@@ -21,7 +21,7 @@ public class BaseEntity {
     private static final Vector2 REFERENCE_VECTOR = new Vector2(1, 0);
     private static final float MAX_SPEED = 250;
 
-    // Constructor for NPCS
+    // Constructor for NPCs
     BaseEntity() {
 
     }
